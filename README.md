@@ -37,6 +37,7 @@ The Vendors module allows admins to view and filter vendor records fetched from 
 - Supabase
 - JavaScript (ES6+)
 - CSS / UI components
+- Tailwind CSS
 - Mock JSON data
 
 ---
