@@ -1,7 +1,7 @@
 # Vendor Management Dashboard (React + Vite + Supabase)
 
 ##  Live Demo
-https://vendor-dashboard-eta.vercel.app
+https://vendor-dashboard-theta.vercel.app
 
 This project is a Vendor Management Dashboard built using React and Vite with Supabase as the backend for data fetching and admin authentication. The application demonstrates how a modern admin panel can be structured to manage vendors through a clean, responsive, and user-friendly interface.
 
